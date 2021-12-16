@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="194" viewBox="0 0 172 194">
+  <g id="Group_18158" data-name="Group 18158" transform="translate(-123.297 -186.31)">
+    <ellipse id="Ellipse_125" data-name="Ellipse 125" cx="78" cy="3" rx="78" ry="3" transform="translate(131.297 374.31)" opacity="0.1"/>
+    <g id="Group_18133" data-name="Group 18133" transform="translate(123 186.036)">
+      <g id="Ellipse_206" data-name="Ellipse 206" transform="translate(0.297 87.274)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="5.5" fill="none"/>
+      </g>
+      <g id="Ellipse_207" data-name="Ellipse 207" transform="translate(12.297 26.274)" fill="none" stroke="#d3b056" stroke-width="2" stroke-dasharray="1 1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9" fill="none"/>
+      </g>
+      <g id="Ellipse_208" data-name="Ellipse 208" transform="translate(95.297 0.274)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+        <circle cx="6" cy="6" r="6" stroke="none"/>
+        <circle cx="6" cy="6" r="5.5" fill="none"/>
+      </g>
+      <g id="Ellipse_217" data-name="Ellipse 217" transform="translate(65.297 50.274)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4.5" fill="none"/>
+      </g>
+      <g id="Ellipse_209" data-name="Ellipse 209" transform="translate(152.297 17.274)" fill="none" stroke="#d3b056" stroke-width="2" stroke-dasharray="1 1">
+        <ellipse cx="10" cy="10.5" rx="10" ry="10.5" stroke="none"/>
+        <ellipse cx="10" cy="10.5" rx="9" ry="9.5" fill="none"/>
+      </g>
+      <g id="Ellipse_210" data-name="Ellipse 210" transform="translate(155.297 94.274)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+        <ellipse cx="6.5" cy="6" rx="6.5" ry="6" stroke="none"/>
+        <ellipse cx="6.5" cy="6" rx="6" ry="5.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_19022" data-name="Group 19022" transform="translate(-1)">
+      <g id="Group_17514" data-name="Group 17514" transform="translate(2.297 -96.69)">
+        <g id="Group_14612" data-name="Group 14612" transform="translate(156 355)">
+          <g id="like">
+            <path id="Path_136" data-name="Path 136" d="M86.856,27.769C85.586,12.735,75.693,1.828,63.311,1.828c-8.249,0-15.8,4.774-20.051,12.426C39.049,6.5,31.805,1.826,23.689,1.826,11.309,1.826,1.414,12.733.145,27.767a28.715,28.715,0,0,0,.74,9.858A42.993,42.993,0,0,0,12.93,59.243L43.24,88.826,74.07,59.245a43,43,0,0,0,12.045-21.62A28.779,28.779,0,0,0,86.856,27.769Z" transform="translate(0 -1.826)" fill="#d3b056"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_136-2" data-name="Path 136" d="M86.856,27.769C85.586,12.735,75.693,1.828,63.311,1.828c-8.249,0-15.8,4.774-20.051,12.426-.014-.19-.02,74.572-.02,74.572L74.07,59.245a43,43,0,0,0,12.045-21.62A28.779,28.779,0,0,0,86.856,27.769Z" transform="translate(158.297 256.484)" fill="#fff" opacity="0.2"/>
+      <g id="no-wifi" transform="translate(226.297 249.31)">
+        <circle id="Ellipse_216" data-name="Ellipse 216" cx="18.5" cy="18.5" r="18.5" fill="#ff2513"/>
+        <g id="close" transform="translate(11 11)">
+          <g id="Group_13686" data-name="Group 13686" transform="translate(0 0)">
+            <path id="Path_31707" data-name="Path 31707" d="M8.328,7.5l6.5-6.5A.586.586,0,0,0,14,.172l-6.5,6.5L1,.172A.586.586,0,0,0,.171,1l6.5,6.5L.171,14A.586.586,0,0,0,1,14.829l6.5-6.5,6.5,6.5A.586.586,0,1,0,14.828,14Z" transform="translate(0 -0.001)" fill="#fff" stroke="#fff" stroke-width="3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

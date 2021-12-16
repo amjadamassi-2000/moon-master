@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "435970157018",
+    "firebase_url": "https://moon-de171.firebaseio.com",
+    "project_id": "moon-de171",
+    "storage_bucket": "moon-de171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435970157018:android:536a3344f50ed9422278e3",
+        "android_client_info": {
+          "package_name": "com.hexa.moon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435970157018-pnq87c0f2h1tdcbmo9bq56p0utftdn4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_jc--wReUTCPc1CvOsMI0SgbnSEme42Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435970157018-pnq87c0f2h1tdcbmo9bq56p0utftdn4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435970157018-l0ts8kg36dbvlrlvudoql5fvagggpuv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moonapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<svg id="Group_18158" data-name="Group 18158" xmlns="http://www.w3.org/2000/svg" width="172" height="195" viewBox="0 0 172 195">
+  <ellipse id="Ellipse_125" data-name="Ellipse 125" cx="78" cy="3" rx="78" ry="3" transform="translate(8 189)" opacity="0.1"/>
+  <g id="Group_18133" data-name="Group 18133" transform="translate(0)">
+    <g id="Ellipse_206" data-name="Ellipse 206" transform="translate(0 87)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_207" data-name="Ellipse 207" transform="translate(12 26)" fill="none" stroke="#d3b056" stroke-width="2" stroke-dasharray="1 1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9" fill="none"/>
+    </g>
+    <g id="Ellipse_208" data-name="Ellipse 208" transform="translate(95 0)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+    <g id="Ellipse_217" data-name="Ellipse 217" transform="translate(65 50)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+    <g id="Ellipse_209" data-name="Ellipse 209" transform="translate(152 17)" fill="none" stroke="#d3b056" stroke-width="2" stroke-dasharray="1 1">
+      <ellipse cx="10" cy="10.5" rx="10" ry="10.5" stroke="none"/>
+      <ellipse cx="10" cy="10.5" rx="9" ry="9.5" fill="none"/>
+    </g>
+    <g id="Ellipse_210" data-name="Ellipse 210" transform="translate(155 94)" fill="none" stroke="#d3b056" stroke-width="1" stroke-dasharray="1 1">
+      <ellipse cx="6.5" cy="6" rx="6.5" ry="6" stroke="none"/>
+      <ellipse cx="6.5" cy="6" rx="6" ry="5.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_19022" data-name="Group 19022" transform="translate(44 63.643)">
+    <path id="search" d="M83.529,84.219,59.347,58.837A34.542,34.542,0,0,0,35.16,0a34.5,34.5,0,0,0,0,68.988,33.83,33.83,0,0,0,21.782-7.937L81.183,86.5a1.617,1.617,0,0,0,2.3.046A1.655,1.655,0,0,0,83.529,84.219ZM35.16,65.7a31.21,31.21,0,0,1,0-62.417,31.21,31.21,0,0,1,0,62.417Z" transform="translate(-0.983 9)" fill="#fff" stroke="#d3b056" stroke-width="7"/>
+    <g id="no-wifi" transform="translate(12 22.123)">
+      <g id="close" transform="translate(11 11)">
+        <g id="Group_13686" data-name="Group 13686" transform="translate(0 0)">
+          <path id="Path_31707" data-name="Path 31707" d="M12.147,10.939l9.48-9.48A.855.855,0,0,0,20.418.251l-9.48,9.48L1.459.251A.855.855,0,0,0,.25,1.46l9.48,9.48L.25,20.419a.855.855,0,0,0,1.209,1.209l9.48-9.48,9.48,9.48a.855.855,0,0,0,1.209-1.209Z" transform="translate(0 -0.001)" fill="#d3b056" stroke="#d3b056" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

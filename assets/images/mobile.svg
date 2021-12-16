@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="11.997" viewBox="0 0 7 11.997">
+  <g id="smartphone" transform="translate(-84.128)">
+    <path id="Path_585" data-name="Path 585" d="M90.44,0H84.816a.727.727,0,0,0-.688.76V11.238a.727.727,0,0,0,.688.76H90.44a.727.727,0,0,0,.688-.76V.76A.727.727,0,0,0,90.44,0ZM84.473,1.909h6.31V9.843h-6.31Z" transform="translate(0)" fill="#d3b056"/>
+    <path id="Path_586" data-name="Path 586" d="M212.446,404.552a.6.6,0,1,0,.6.6A.6.6,0,0,0,212.446,404.552Zm0,.962a.358.358,0,1,1,.358-.358A.358.358,0,0,1,212.446,405.514Z" transform="translate(-124.818 -394.232)" fill="#fff"/>
+    <path id="Path_587" data-name="Path 587" d="M197.529,37.891H199.2a.123.123,0,1,0,0-.246h-1.671a.123.123,0,1,0,0,.246Z" transform="translate(-110.736 -36.72)" fill="#fff"/>
+    <path id="Path_588" data-name="Path 588" d="M179.532,37.891a.122.122,0,1,0-.087-.036A.124.124,0,0,0,179.532,37.891Z" transform="translate(-93.096 -36.72)" fill="#fff"/>
+  </g>
+</svg>
